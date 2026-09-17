@@ -2,6 +2,13 @@
 
 Pawscript is a pixel font that was originally created for [Paw Paint DS](https://github.com/MaxBogomol/PawPaintDS).
 
+# Writing systems
+
+- Latin
+- Greek
+- Cyrillic
+- Hebrew
+
 # Files
 
 `/sprites` - font sprites.  
